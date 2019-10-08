@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://viepuasie.blazejeeps.com/sitemap.xml
